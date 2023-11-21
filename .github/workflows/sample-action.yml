@@ -1,8 +1,0 @@
-name: Github Actions demo
-on: push
-jobs:
-  Example-Actions-Job:
-    name: Exploring Github Actions
-    runs-on: windows-latest
-    steps:
-      - run: echo "Hello moto"
